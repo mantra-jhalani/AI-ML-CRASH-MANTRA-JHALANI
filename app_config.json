@@ -1,0 +1,5 @@
+{
+    "model": "krishi_mitra_vision_v1",
+    "learning_rate": 0.001,
+    "epochs": 20
+}
