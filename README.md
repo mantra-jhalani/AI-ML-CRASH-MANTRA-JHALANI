@@ -1,45 +1,152 @@
-# Python Bootcamp Self-Practice
+# AI-ML-CRASH-MANTRA-JHALANI
 
-![Python](https://img.shields.io/badge/python-3.x-blue.svg?style=flat-square)
-![Status](https://img.shields.io/badge/status-work_in_progress-orange.svg?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
 
-A structured repository containing daily coding drills, covering everything from basic syntax to Object-Oriented Programming, File I/O, and Data Analysis.
+## 📌 Project Overview
+
+This repository contains my daily assignments, practice exercises, and projects completed during my AI & ML learning journey.
+
+The goal of this repository is to document my progress in:
+
+- Python Programming
+- Problem Solving
+- Data Structures & Algorithms
+- Machine Learning Fundamentals
+- Jupyter Notebook Development
+- Git & GitHub Version Control
+
+---
+
+## 📂 Day 7 Tasks
+
+### Included Notebooks
+
+- Task1.ipynb
+- Task2.ipynb
+- Task3.ipynb
+- Task4.ipynb
+- Task5.ipynb
+- Task6.ipynb
+- Task7.ipynb
+- Task8.ipynb
+- Task9.ipynb
+
+### Practice Notebooks
+
+- intro.ipynb
+- skills.ipynb
+- simple_calculator.ipynb
+- even_odd.ipynb
 
 ---
 
-## Day 1: Python Basics
-*(Add your Day 1 scripts and descriptions here)*
+## 🛠 Technologies Used
 
-## Day 2: Control Flow & Functions
-*(Add your Day 2 scripts and descriptions here)*
+- Python
+- Jupyter Notebook
+- Git
+- GitHub
+- VS Code
 
-## Day 3: Data Structures
-*(Add your Day 3 scripts and descriptions here)*
+---
+
+## 🎯 Learning Objectives
+
+Through these tasks, I am learning:
+
+- Variables and Data Types
+- Conditional Statements
+- Loops
+- Functions
+- Lists and Dictionaries
+- File Handling
+- Object-Oriented Programming
+- Debugging
+- Git Branching
+- GitHub Workflow
 
 ---
 
-## Day 4: Advanced Python & OOP
+## 📁 Repository Structure
 
-This section covers Object-Oriented Programming, file handling (CSV/JSON), and library exploration (Pandas). 
-
-* **`student_report.py`** — Creates a `Student` class with class/instance variables to calculate averages and assign grades.
-    * *Run:* `python student_report.py`
-* **`comprehension_drills.py`** — Demonstrates concise list, dictionary, and set comprehensions for data filtering and transformation.
-    * *Run:* `python comprehension_drills.py`
-* **`file_records.py`** — Uses the `csv` module to read student data, calculate grades, and write the results to a new CSV using `DictWriter`.
-    * *Run:* `python file_records.py`
-* **`typed_calculator.py`** — A type-hinted calculator module demonstrating the use of `Optional` returns and `ValueError` handling.
-    * *Run:* `python typed_calculator.py`
-* **`library_system.py`** — Demonstrates OOP inheritance, method overriding, and the `super()` function with `Book` and `EBook` classes.
-    * *Run:* `python library_system.py`
-* **`config_manager.py`** — Manages reading, writing, and safely updating specific keys in JSON configuration files.
-    * *Run:* `python config_manager.py`
-* **`pandas_explore.py`** — Explores a dataset of student scores using Pandas `DataFrames`, boolean filtering, and the `nlargest()` function.
-    * *Run:* `python pandas_explore.py`
-* **`fraction_class.py`** — Implements a custom mathematical fraction class using Python's dunder methods (`__add__`, `__eq__`, `__lt__`) and `@total_ordering`.
-    * *Run:* `python fraction_class.py`
-* **`[Your 9th Script].py`** — *(Fill in the details for your final script here)*
-    * *Run:* `python [your_script].py`
+```text
+AI-ML-CRASH-MANTRA-JHALANI
+│
+├── Task1.ipynb
+├── Task2.ipynb
+├── Task3.ipynb
+├── Task4.ipynb
+├── Task5.ipynb
+├── Task6.ipynb
+├── Task7.ipynb
+├── Task8.ipynb
+├── Task9.ipynb
+│
+├── intro.ipynb
+├── skills.ipynb
+├── simple_calculator.ipynb
+├── even_odd.ipynb
+│
+└── README.md
+```
 
 ---
-*Author: Mantra Jhalani*
+
+## 🚀 How to Run
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/mantra-jhalani/AI-ML-CRASH-MANTRA-JHALANI.git
+```
+
+### Navigate to the Project
+
+```bash
+cd AI-ML-CRASH-MANTRA-JHALANI
+```
+
+### Launch Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+---
+
+## 📈 Progress Tracker
+
+- ✅ Day 1 Completed
+- ✅ Day 2 Completed
+- ✅ Day 3 Completed
+- ✅ Day 4 Completed
+- ✅ Day 5 Completed
+- ✅ Day 6 Completed
+- ✅ Day 7 Completed
+
+---
+
+## 👨‍💻 Author
+
+### Mantra Jhalani
+
+Aspiring AI Engineer | Python Developer | Machine Learning Enthusiast
+
+📧 Email: your.email@gmail.com
+
+📱 Phone: +91 8824943378
+
+🔗 GitHub: https://github.com/mantra-jhalani
+
+---
+
+## ⭐ Support
+
+If you find this repository helpful, consider giving it a ⭐ on GitHub.
+
+---
+
+### "Learning one commit at a time towards becoming an AI Engineer."
